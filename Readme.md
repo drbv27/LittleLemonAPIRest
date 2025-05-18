@@ -280,8 +280,6 @@ Explora `http://127.0.0.1:8000/auth/` para:
 - `jwt/verify/` (para verificar un token JWT)
 - Y otros según la configuración de Djoser en `urls.py`.
 
-## 📚 Origen del Proyecto (Si aplica)
-
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-drbv27-181717?logo=github)](https://github.com/drbv27)

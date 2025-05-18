@@ -10,6 +10,8 @@
 
 Este proyecto de el restaurante ficticio Little Lemon, representa el trabajo Final del `Certificado Profesional BackEnd de META`. Desarrollado con Django y Django REST framework, proporciona endpoints para gestionar el menú del restaurante, un sistema robusto para la gestión de reservas, autenticación de usuarios (incluyendo JWT) y la conexión con una base de datos MySQL. Este backend está diseñado para ser consumido por una aplicación frontend (no incluida en este repositorio).
 
+**Muy importante** el `render` de la pagina está en [http://127.0.0.1:8000/home/](http://127.0.0.1:8000/home/)
+
 ## Plan de estudios del curso
 
 Aquí un breve resumen de cómo abordé este proyecto a través de los módulos del curso:

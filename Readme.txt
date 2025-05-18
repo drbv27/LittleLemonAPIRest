@@ -1,5 +1,8 @@
 # Endpoints de la API para Pruebas
 
+## Home de la app
+- **http://127.0.0.1:8000/home**
+
 ## API de Menú
 - **GET** `/restaurant/menu/`
   - **Descripción:** Recupera una lista de todos los ítems del menú.
